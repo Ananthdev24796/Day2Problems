@@ -6,7 +6,7 @@ package com.bridgelabz;
 import java.util.Scanner;
 
 /**
- * @author Iam_A
+ * @author Iam_A 
  *
  */
 public class WhileSumOfNatural {
