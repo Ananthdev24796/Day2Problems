@@ -11,7 +11,7 @@ import java.util.Scanner;
  */
 public class WhileReverse {
 
-	/**
+	/** 
 	 * @param args
 	 */
 	public static void main(String[] args) {

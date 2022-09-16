@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  * @author Iam_A 
- *
+ * 
  */
 public class WhileSumOfNatural {
 

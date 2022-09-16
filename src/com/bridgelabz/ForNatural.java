@@ -5,7 +5,7 @@ package com.bridgelabz;
 
 import java.util.Scanner;
 
-/**
+/** 
  * @author Iam_A
  *
  */
